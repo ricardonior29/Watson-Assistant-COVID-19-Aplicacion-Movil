@@ -25,6 +25,18 @@ La API Assistant v2 proporciona métodos de tiempo de ejecución que su aplicaci
 Click [aquí](https://github.com/ricardonior29/Watson-Assistant-COVID-19-Aplicacion-Movil/raw/master/WatsonCovid.apk) para descargar el APK.
 > Para ejecutar en iOS se debe compilar directamente al iPhone en un Sistema Operativo macOS.
 
+## Para desarrolladores
+
+Para implementar el código de la aplicación contacta con uno de los colaboradores de este repositorio para solicitar el ApiKey de Watson Assistant, y posteriormente llenar los parámetros en el archivo [watson_helper.dart](lib/data/watson_helper.dart):
+
+```dart
+final _waCredentials = WAConfig(
+    version: "2020-02-05",
+    apiKey: "",
+    url: "",
+    assistantID: "");
+```
+
 ## Licencia
 
     Copyright 2020 Ricardo Niño
