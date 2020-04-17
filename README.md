@@ -37,6 +37,7 @@ final _waCredentials = WAConfig(
     assistantID: "");
 ```
 
+> Contacto: [Ricardo Niño](https://www.linkedin.com/in/ricardonino/), [Javier Duarte](https://www.linkedin.com/in/javierduarte93/)
 ## Licencia
 
     Copyright 2020 Ricardo Niño
