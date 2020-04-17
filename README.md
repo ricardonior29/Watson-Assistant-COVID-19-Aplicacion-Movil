@@ -39,6 +39,8 @@ final _waCredentials = WAConfig(
 
 > Contacto: [Ricardo Niño](https://www.linkedin.com/in/ricardonino/)
 
+API implementada para estadísticas [Arcgis Services. Johns Hopkins University](https://coronavirus-disasterresponse.hub.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/geoservice?geometry=34.182%2C-38.069%2C-16.794%2C63.033)
+
 ## Licencia
 
     Copyright 2020 Ricardo Niño
