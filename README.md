@@ -22,7 +22,7 @@ La API Assistant v2 proporciona métodos de tiempo de ejecución que su aplicaci
 
 ## Descargar aplicación 📥
 
-Click [aquí](https://github.com/ricardonior29/watson-flutter/raw/master/WatsonCovid.apk) para descargar el APK.
+Click [aquí](https://github.com/ricardonior29/Watson-Assistant-COVID-19-Aplicacion-Movil/raw/master/WatsonCovid.apk) para descargar el APK.
 > Para ejecutar en iOS se debe compilar directamente al iPhone en un Sistema Operativo macOS.
 
 ## Licencia
